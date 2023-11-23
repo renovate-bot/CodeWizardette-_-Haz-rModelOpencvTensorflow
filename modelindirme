@@ -1,0 +1,3 @@
+Kullanılan modelimiz https://github.com/tensorflow/tfjs-models/blob/master/coco-ssd/README.md
+Coco v2 ssd indirme linki: http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz
+
